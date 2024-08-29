@@ -2,6 +2,6 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="../../../../Magento/Backend/etc/menu.xsd">
     <menu>
-        <add id="MageMonk_Base::base" title="MageMonk" module="MageMonk_Base" sortOrder="51" resource="MageMonk_Base::base"/>
+        <add id="MageMonk_Base::base" title="Mage Monk" module="MageMonk_Base" sortOrder="51" resource="MageMonk_Base::base"/>
     </menu>
 </config>
