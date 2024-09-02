@@ -3,7 +3,7 @@
     "description": "Base module for mage monk",
     "version": "1.0.0",
     "require": {
-        "php": "~8.2"
+        "php": "^8.2"
     },
     "keywords": [
         "magento 2",
